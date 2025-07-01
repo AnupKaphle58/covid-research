@@ -1,0 +1,190 @@
+CountryCode,Country,AvgAlcohol2000_2020
+AFG,Afghanistan,0.0
+AGO,Angola,6.00476
+ALB,Albania,4.39524
+AND,Andorra,11.35714
+ARE,United Arab Emirates,1.79524
+ARG,Argentina,7.04286
+ARM,Armenia,3.76667
+ATG,Antigua and Barbuda,8.42381
+AUS,Australia,10.00952
+AUT,Austria,12.02381
+AZE,Azerbaijan,0.67143
+BDI,Burundi,4.38571
+BEL,Belgium,9.9381
+BEN,Benin,3.2619
+BFA,Burkina Faso,6.10952
+BGD,Bangladesh,0.00476
+BGR,Bulgaria,10.60952
+BHR,Bahrain,1.98095
+BHS,Bahamas,9.6619
+BIH,Bosnia and Herzegovina,4.69048
+BLR,Belarus,11.99048
+BLZ,Belize,6.05238
+BOL,Bolivia (Plurinational State of),2.89524
+BRA,Brazil,6.87143
+BRB,Barbados,8.69524
+BRN,Brunei Darussalam,0.5381
+BTN,Bhutan,0.37143
+BWA,Botswana,6.61905
+CAF,Central African Republic,1.61905
+CAN,Canada,8.06667
+CHE,Switzerland,10.01429
+CHL,Chile,6.97143
+CHN,China,4.24286
+CIV,Cote d'Ivoire,2.32381
+CMR,Cameroon,4.85238
+COD,Democratic Republic of the Congo,2.52857
+COG,Congo,3.82381
+COK,Cook Islands,9.44286
+COL,Colombia,4.31905
+COM,Comoros,0.18095
+CPV,Cabo Verde,4.64762
+CRI,Costa Rica,3.69048
+CUB,Cuba,4.42381
+CYP,Cyprus,8.63333
+CZE,Czechia,13.15238
+DEU,Germany,11.45714
+DJI,Djibouti,0.42381
+DMA,Dominica,7.23333
+DNK,Denmark,10.24762
+DOM,Dominican Republic,5.72857
+DZA,Algeria,0.44286
+ECU,Ecuador,3.48095
+EGY,Egypt,0.1619
+ERI,Eritrea,0.92381
+ESP,Spain,10.24762
+EST,Estonia,14.57143
+ETH,Ethiopia,1.02857
+FIN,Finland,9.2381
+FJI,Fiji,2.48571
+FRA,France,12.47143
+FSM,Micronesia (Federated States of),1.99048
+GAB,Gabon,7.89048
+GBR,United Kingdom of Great Britain and Northern Ireland,10.32857
+GEO,Georgia,6.23333
+GHA,Ghana,2.03333
+GIN,Guinea,0.27143
+GMB,Gambia,2.31905
+GNB,Guinea-Bissau,3.19048
+GNQ,Equatorial Guinea,7.72857
+GRC,Greece,7.81905
+GRD,Grenada,8.1381
+GTM,Guatemala,1.98095
+GUY,Guyana,5.47619
+HND,Honduras,2.7619
+HRV,Croatia,11.16667
+HTI,Haiti,3.12857
+HUN,Hungary,11.80952
+IDN,Indonesia,0.1
+IND,India,2.17619
+IRL,Ireland,12.10952
+IRN,Iran (Islamic Republic of),0.07619
+IRQ,Iraq,0.15238
+ISL,Iceland,7.08571
+ISR,Israel,2.5
+ITA,Italy,7.71429
+JAM,Jamaica,3.09048
+JOR,Jordan,0.41905
+JPN,Japan,6.70952
+KAZ,Kazakhstan,4.51905
+KEN,Kenya,1.97143
+KGZ,Kyrgyzstan,5.51429
+KHM,Cambodia,2.2381
+KIR,Kiribati,0.47143
+KNA,Saint Kitts and Nevis,9.17143
+KOR,Republic of Korea,8.84762
+KWT,Kuwait,0.0
+LAO,Lao People's Democratic Republic,5.52381
+LBN,Lebanon,1.4
+LBR,Liberia,3.09048
+LBY,Libya,0.0
+LCA,Saint Lucia,10.75238
+LKA,Sri Lanka,2.25238
+LSO,Lesotho,2.70952
+LTU,Lithuania,12.5
+LUX,Luxembourg,11.97619
+LVA,Latvia,10.3
+MAR,Morocco,0.4619
+MDA,Republic of Moldova,6.41905
+MDG,Madagascar,0.71905
+MDV,Maldives,1.34286
+MEX,Mexico,4.54762
+MKD,North Macedonia,3.89048
+MLI,Mali,2.23333
+MLT,Malta,7.32381
+MMR,Myanmar,1.06667
+MNE,Montenegro,9.61286
+MNG,Mongolia,6.38571
+MOZ,Mozambique,1.00476
+MRT,Mauritania,0.0
+MUS,Mauritius,7.0381
+MWI,Malawi,1.8
+MYS,Malaysia,0.55714
+NAM,Namibia,4.21429
+NER,Niger,0.1
+NGA,Nigeria,4.44286
+NIC,Nicaragua,3.57143
+NIU,Niue,7.20952
+NLD,Netherlands (Kingdom of the),9.00476
+NOR,Norway,6.24286
+NPL,Nepal,0.4619
+NRU,Nauru,2.7381
+NZL,New Zealand,9.1381
+OMN,Oman,0.48095
+PAK,Pakistan,0.02857
+PAN,Panama,5.64286
+PER,Peru,5.12381
+PHL,Philippines,4.7
+PNG,Papua New Guinea,1.23333
+POL,Poland,9.90476
+PRK,Democratic People's Republic of Korea,3.3
+PRT,Portugal,11.0381
+PRY,Paraguay,5.49524
+QAT,Qatar,1.01905
+ROU,Romania,10.6
+RUS,Russian Federation,9.82381
+RWA,Rwanda,1.02857
+SAU,Saudi Arabia,0.0
+SDN,Sudan,0.01429
+SEN,Senegal,0.31429
+SGP,Singapore,1.78571
+SLB,Solomon Islands,0.75714
+SLE,Sierra Leone,0.21429
+SLV,El Salvador,2.65238
+SOM,Somalia,0.0
+SRB,Serbia,8.28
+STP,Sao Tome and Principe,5.3619
+SUR,Suriname,5.15238
+SVK,Slovakia,10.38571
+SVN,Slovenia,10.75238
+SWE,Sweden,7.00952
+SWZ,Eswatini,7.05714
+SYC,Seychelles,10.08571
+SYR,Syrian Arab Republic,0.52381
+TCD,Chad,0.5
+TGO,Togo,1.18095
+THA,Thailand,7.07619
+TJK,Tajikistan,0.79524
+TKM,Turkmenistan,2.70952
+TLS,Timor-Leste,0.30476
+TON,Tonga,0.80952
+TTO,Trinidad and Tobago,5.5619
+TUN,Tunisia,1.36667
+TUR,Türkiye,1.38571
+TUV,Tuvalu,1.21905
+TZA,United Republic of Tanzania,5.75714
+UGA,Uganda,9.82857
+UKR,Ukraine,7.2
+URY,Uruguay,5.78095
+USA,United States of America,8.69048
+UZB,Uzbekistan,2.86667
+VCT,Saint Vincent and the Grenadines,6.50476
+VEN,Venezuela (Bolivarian Republic of),6.38095
+VNM,Viet Nam,2.15714
+VUT,Vanuatu,1.36667
+WSM,Samoa,2.49048
+YEM,Yemen,0.01905
+ZAF,South Africa,7.2619
+ZMB,Zambia,2.88095
+ZWE,Zimbabwe,2.44762

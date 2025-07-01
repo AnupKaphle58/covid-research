@@ -63,4 +63,12 @@ Retrieved on: 2025-01-24
 Retrieved from: https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators  
 
 
-    
+## Dataset
+
+The COVID datasets are large and stored externally on Kaggle.
+
+You can download them here:
+
+https://www.kaggle.com/datasets/utsavadhikari/covid-dataset-for-research
+
+**Note:** Please download these files separately before running the code.
